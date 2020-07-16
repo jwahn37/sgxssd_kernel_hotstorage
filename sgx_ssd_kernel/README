@@ -1,0 +1,8 @@
+DiskShield
+
+I have changed : 
+syscalls.h
+syscall_64.tbl
+open.c
+libata-core.c
+

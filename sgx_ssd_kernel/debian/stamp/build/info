@@ -1,0 +1,16 @@
+binutils-2.30-21ubuntu1~18.04
+dpkg-1.19.0.5ubuntu2.3
+dpkg-dev-1.19.0.5ubuntu2.3
+gcc-4:7.4.0-1ubuntu2.3
+gcc-7-7.5.0-3ubuntu1~18.04
+gcc-7-base:amd64-7.5.0-3ubuntu1~18.04
+gcc-8-base:amd64-8.4.0-1ubuntu1~18.04
+libc6:amd64-2.27-3ubuntu1
+libc6-dbg:amd64-2.27-3ubuntu1
+libc6-dev:amd64-2.27-3ubuntu1
+make-4.1-9.1ubuntu1
+perl-5.26.1-6ubuntu0.3
+this was built on a machine with the kernel:
+Linux jinulass 4.15.0 #7 SMP Thu Jun 4 02:34:55 KST 2020 x86_64 x86_64 x86_64 GNU/Linux
+using the compiler:
+gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)
